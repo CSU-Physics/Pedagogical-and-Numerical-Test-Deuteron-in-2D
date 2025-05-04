@@ -4,5 +4,6 @@
     "enableMemoryStorage": true,
     "contentsStorageDrivers": ["memoryStorageDriver"],
     "settingsStorageDrivers": ["memoryStorageDriver"]
+    
   }
 }
